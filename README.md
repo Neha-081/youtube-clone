@@ -37,5 +37,8 @@ This project was based on [Youtube](https://www.youtube.com).
 
 ## Contact
 
-Created by <nehaprajapati1150@gmail.com> - feel free to contact me!
+Feel free to reach me ->
+- Email - <nehaprajapati1150@gmail.com> 
+- LinkedIn - https://linkedin.com/in/neha-prajapati-1150
+- Twitter - https://twitter.com/NehaPra03810819
 
