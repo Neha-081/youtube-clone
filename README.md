@@ -1,6 +1,6 @@
 # Youtube clone
 
-![Screenshot](preview.png)
+![youtube](https://user-images.githubusercontent.com/87421798/152951023-ae67b6c8-fa44-4d2b-bcc6-c4c5d0e66618.png)
 
 > Simple Youtube clone created with HTML, CSS & JS.
 
@@ -37,4 +37,5 @@ This project was based on [Youtube](https://www.youtube.com).
 
 ## Contact
 
-Created by [@nehaprajapati](nehaprajapati1150@gmail.com) - feel free to contact me!
+Created by <nehaprajapati1150@gmail.com> - feel free to contact me!
+
