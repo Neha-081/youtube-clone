@@ -72,5 +72,8 @@ body{
        width: 70%;
    }#navbar{
        border-right: none;
+   }.mons{
+       width: 350px;
+       height: 200px;
    }
   }
