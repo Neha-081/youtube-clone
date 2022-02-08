@@ -1,31 +1,40 @@
-Youtube clone
-Screenshot
+# Youtube clone
 
-Simple Youtube clone created with HTML, CSS & JS.
+![Screenshot](preview.png)
 
-Live demo https://neha-youtube-clone-js.netlify.app/.
+> Simple Youtube clone created with HTML, CSS & JS.
 
-Table of Contents
-General info
-Technologies
-Setup
-General info
-This projects is created with HTML, CSS & JS. Main goal of this projects was to get expertise in my CSS and JS skills.
+> Live demo https://neha-youtube-clone-js.netlify.app/.
 
-Technologies
+## Table of Contents
+
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Setup](#setup)
+
+## General info
+
+This projects is created with HTML, CSS & JS. Main goal of this projects was to expertise my CSS and JS skills.
+
+## Technologies
+
 Project is created with:
 
-HTML
-CSS
-JS
+- HTML
+- CSS
+- JS
 
-Features
-Top bar with menu button, youtube logo, search box and user settings
-Side bar menu with subscriptions list
-Hamburger icon click replace side bar menu with simple bar menu
-Main video section with most populars videos of each subscriptions channels
-Acknowledgements
-This project was based on Youtube. All texts and logos belong to Google LLC.
+## Features
 
-Contact
-Created by @Neha-081 - feel free to contact me!
+- Top bar with menu button, youtube logo, search box and user settings
+- Side bar menu with subscriptions list
+- Hamburger icon click replace side bar menu with simple bar menu
+- Main video section with most populars videos of each subscriptions channels
+
+## Acknowledgements
+
+This project was based on [Youtube](https://www.youtube.com).
+
+## Contact
+
+Created by [@nehaprajapati](nehaprajapati1150@gmail.com) - feel free to contact me!
