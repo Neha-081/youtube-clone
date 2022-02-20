@@ -31,7 +31,7 @@ Project is created with:
 - Hamburger icon click replace side bar menu with simple bar menu
 - Main video section with most populars videos of each subscriptions channels
 
-## Acknowledgements
+## Acknowledgement
 
 This project was based on [Youtube](https://www.youtube.com).
 
